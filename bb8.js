@@ -53,11 +53,10 @@ var keypress = require("keypress");
               }
           }
 
-      keypress(process.stdin);
-      process.stdin.on("keypress", handle);
+          keypress(process.stdin);
+          process.stdin.on("keypress", handle);
 
-      process.stdin.setRawMode(true);
-      process.stdin.resume();
-
-    }
+          process.stdin.setRawMode(true);
+          process.stdin.resume();
+      }
     }).start();

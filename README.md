@@ -9,7 +9,7 @@ After a few hours of googling, I narrowed down my search to these two resources,
 
 Being new to programming, it took me a good hour to get BB-8 connected through Node.js, but it was definitely worth it.
 
-![Alt text](http://i.imgur.com/cvQYSTo.gifv)
+![Alt text](http://i.imgur.com/cvQYSTo.gif)
 
 For now, BB-8 behaves like a RC Car, but hey at least I get to move it around using my laptop and randomise it's colours.
 ***
