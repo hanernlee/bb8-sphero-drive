@@ -7,7 +7,7 @@ After a few hours of googling, I narrowed down my search to these two resources,
 - [Sphero.js](https://github.com/orbotix/sphero.js)
 - [Cylon.js](https://cylonjs.com/documentation/drivers/bb8/)
 
-Being new to programgming, it took me a good hour and a half to get BB-8 connected through Node.js, but it was definitely worth it once I got it working.
+Being new to programming, it took me a good hour and a half to get BB-8 connected through Node.js, but it was definitely worth it once I got it working.
 
 ![Alt text](http://i.imgur.com/txJZ8JD.gif)
 
