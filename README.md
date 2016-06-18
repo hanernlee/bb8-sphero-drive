@@ -19,12 +19,13 @@ If you have your own BB-8 Sphero and would like to try this out. Follow these st
 4. Once you have obtained the UUID, replace the old uuid string on ```line 9 in bb8.js``` with your own BB-8's UUID.
 5. Run ```node bb8.js``` and you should see something like this on the terminal :-
 
-
-```2016-06-18T16:49:20.360Z : [Robot 1] - Starting connections.
+```
+2016-06-18T16:49:20.360Z : [Robot 1] - Starting connections.
 2016-06-18T16:49:20.366Z : [Robot 1] - Starting connection 'bluetooth'.
 2016-06-18T16:49:24.371Z : [Robot 1] - Starting devices.
 2016-06-18T16:49:24.371Z : [Robot 1] - Starting device 'bb8'.
-2016-06-18T16:49:25.634Z : [Robot 1] - Working.```
+2016-06-18T16:49:25.634Z : [Robot 1] - Working.
+```
 
 
 You should be good to go once you see the status ```Working```.
