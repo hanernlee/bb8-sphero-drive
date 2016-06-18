@@ -15,8 +15,8 @@ If you have your own BB-8 Sphero and would like to try this script out. Follow t
 
 1. Git Clone or Download this repo.
 2. Run ```npm install``` to install the necessary node dependencies.
-3. Run ```node ./node_modules/cylon-ble/examples/discovery/discovery.js``` to obtain your BB-8's UUID. Make sure BB-8 has enough battery and is within range.
-4. Once you have obtained the UUID, replace the previous UUID string on ```line 9 in bb8.js``` with your own BB-8's UUID.
+3. Run ```node ./node_modules/cylon-ble/examples/discovery/discovery.js``` to obtain your BB-8 UUID. Make sure BB-8 has enough battery and is within range.
+4. Once you have obtained the UUID, replace the previous UUID string on ```line 9 in bb8.js``` with your own BB-8 UUID.
 5. Run ```node bb8.js``` and you should see something like this  below on the terminal :-
 
 
