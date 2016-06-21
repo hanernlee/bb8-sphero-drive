@@ -25,6 +25,13 @@ var keypress = require("keypress");
           switch (key.name) {
 
             case "c":
+            var myColor = setInterval(function () {
+              my.bb8.randomColor();
+            }, 1000);
+              // my.bb8.randomColor();
+            break;
+
+            case "k":
               my.bb8.randomColor();
             break;
 
@@ -49,8 +56,9 @@ var keypress = require("keypress");
             break;
 
             case "space":
-            my.bb8.stop();
-              }
+              my.bb8.stop();
+            break;
+            }
           }
 
           keypress(process.stdin);
