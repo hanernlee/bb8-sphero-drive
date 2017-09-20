@@ -59,6 +59,9 @@ var keypress = require("keypress");
               my.bb8.stop();
             break;
             }
+            //
+            // my.bb8.detectCollisions();
+            // my.bb8.stopOnDisconnect();
           }
 
           keypress(process.stdin);
